@@ -1,0 +1,13 @@
+typing_animation:
+  align: center
+  font: Fira Code
+  size: 24
+  duration: 4000
+  pause: 1000
+  color: "#36BCF7"
+  center: true
+  lines:
+    - "Hi 👋! My name is Liybie"
+    - "BSIT – Mobile & Web Application"
+    - "Aspiring Software Engineer"
+    - "Learning. Building. Improving."
