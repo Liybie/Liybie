@@ -32,7 +32,7 @@
 </div>
 
 <br clear="both">
-
+<h2 align="left">GitHub Contributions</h2>
 <img src="https://raw.githubusercontent.com/Liybie/Liybie/output/snake.svg" alt="Snake animation" />
 
 ###
