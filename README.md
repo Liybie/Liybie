@@ -2,6 +2,9 @@
 
 ###
 
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Hi+👋!+I'm+Liybie+R.+Paragatos;BSIT+Student+%7C+Web+Developer;Passionate+about+Programming+%26+Research" alt="Typing SVG" />
+</h2>
 ###
 
 <div align="left">
